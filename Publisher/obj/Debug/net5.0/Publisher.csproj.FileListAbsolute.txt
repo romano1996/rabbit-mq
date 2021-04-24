@@ -1,0 +1,16 @@
+/home/romano/RiderProjects/RabbitMQ/Publisher/bin/Debug/net5.0/Publisher
+/home/romano/RiderProjects/RabbitMQ/Publisher/bin/Debug/net5.0/Publisher.deps.json
+/home/romano/RiderProjects/RabbitMQ/Publisher/bin/Debug/net5.0/Publisher.runtimeconfig.json
+/home/romano/RiderProjects/RabbitMQ/Publisher/bin/Debug/net5.0/Publisher.runtimeconfig.dev.json
+/home/romano/RiderProjects/RabbitMQ/Publisher/bin/Debug/net5.0/Publisher.dll
+/home/romano/RiderProjects/RabbitMQ/Publisher/bin/Debug/net5.0/ref/Publisher.dll
+/home/romano/RiderProjects/RabbitMQ/Publisher/bin/Debug/net5.0/Publisher.pdb
+/home/romano/RiderProjects/RabbitMQ/Publisher/obj/Debug/net5.0/Publisher.csprojAssemblyReference.cache
+/home/romano/RiderProjects/RabbitMQ/Publisher/obj/Debug/net5.0/Publisher.GeneratedMSBuildEditorConfig.editorconfig
+/home/romano/RiderProjects/RabbitMQ/Publisher/obj/Debug/net5.0/Publisher.AssemblyInfoInputs.cache
+/home/romano/RiderProjects/RabbitMQ/Publisher/obj/Debug/net5.0/Publisher.AssemblyInfo.cs
+/home/romano/RiderProjects/RabbitMQ/Publisher/obj/Debug/net5.0/Publisher.csproj.CoreCompileInputs.cache
+/home/romano/RiderProjects/RabbitMQ/Publisher/obj/Debug/net5.0/Publisher.dll
+/home/romano/RiderProjects/RabbitMQ/Publisher/obj/Debug/net5.0/ref/Publisher.dll
+/home/romano/RiderProjects/RabbitMQ/Publisher/obj/Debug/net5.0/Publisher.pdb
+/home/romano/RiderProjects/RabbitMQ/Publisher/obj/Debug/net5.0/Publisher.genruntimeconfig.cache
