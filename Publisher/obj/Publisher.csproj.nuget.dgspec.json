@@ -37,6 +37,12 @@
       "frameworks": {
         "net5.0": {
           "targetAlias": "net5.0",
+          "dependencies": {
+            "NServiceBus": {
+              "target": "Package",
+              "version": "[7.4.6, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",
