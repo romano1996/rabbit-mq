@@ -10,6 +10,8 @@
     </ItemGroup>
 
     <ItemGroup>
+      <PackageReference Include="DotNetCore.CAP" Version="5.0.2-preview-135224594" />
+      <PackageReference Include="DotNetCore.CAP.RabbitMQ" Version="5.0.2-preview-135224594" />
       <PackageReference Include="NServiceBus" Version="7.4.6" />
     </ItemGroup>
 

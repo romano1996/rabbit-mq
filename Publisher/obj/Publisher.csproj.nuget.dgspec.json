@@ -38,9 +38,13 @@
         "net5.0": {
           "targetAlias": "net5.0",
           "dependencies": {
-            "NServiceBus": {
+            "DotNetCore.CAP": {
               "target": "Package",
-              "version": "[7.4.6, )"
+              "version": "[5.0.2-preview-135224594, )"
+            },
+            "DotNetCore.CAP.RabbitMQ": {
+              "target": "Package",
+              "version": "[5.0.2-preview-135224594, )"
             }
           },
           "imports": [
